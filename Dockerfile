@@ -12,4 +12,4 @@ COPY . .
 ENV PYTHONUNBUFFERED=1
 ENV PORT=10000
 
-CMD ["python", "main.py"]
+CMD ["python", "master.py"]
